@@ -1,4 +1,8 @@
-﻿### Hola, soy Juliana 👋
+﻿<p align="center">
+  <img src="avatar.jpg" alt="Juliana Chantre Astudillo" width="160" height="160" style="border-radius:50%;" />
+</p>
+
+### Hola, soy Juliana 👋
 
 **Ingeniera Informática · Full Stack · Maestría en IA (UNIR)**
 
