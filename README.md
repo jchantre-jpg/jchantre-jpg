@@ -2,7 +2,7 @@
 
 **Ingeniera Informática · Full Stack · Maestría en IA (UNIR)**
 
-Construyo **apps web, landings, APIs y datos** con nombres claros y demos usables.  
+Portafolio con **apps web, landings, APIs y muchos lenguajes**.  
 Producto estrella: **[YuweAI](https://yuwe-ai.web.app)** (mención de honor).
 
 <p align="left">
@@ -16,42 +16,54 @@ Producto estrella: **[YuweAI](https://yuwe-ai.web.app)** (mención de honor).
 
 ---
 
-### Apps y páginas (demos)
-
-| Proyecto | Qué es | Demo |
-|----------|--------|------|
-| [agenda-citas](https://github.com/jchantre-jpg/agenda-citas) | App de **reservas** | [Abrir](https://jchantre-jpg.github.io/agenda-citas/) |
-| [factura-facil](https://github.com/jchantre-jpg/factura-facil) | **Facturas** COP + PDF | [Abrir](https://jchantre-jpg.github.io/factura-facil/) |
-| [quiz-academia](https://github.com/jchantre-jpg/quiz-academia) | **Quiz** educativo | [Abrir](https://jchantre-jpg.github.io/quiz-academia/) |
-| [landing-nova-studio](https://github.com/jchantre-jpg/landing-nova-studio) | **Landing** profesional | [Abrir](https://jchantre-jpg.github.io/landing-nova-studio/) |
-| [menu-cafe-andes](https://github.com/jchantre-jpg/menu-cafe-andes) | **Menú digital** café | [Abrir](https://jchantre-jpg.github.io/menu-cafe-andes/) |
-| [spendly](https://github.com/jchantre-jpg/spendly) | Finanzas personales | [Abrir](https://jchantre-jpg.github.io/spendly/) |
-| [nexus-board](https://github.com/jchantre-jpg/nexus-board) | Full-stack tareas | Código |
-| [react-focus-board](https://github.com/jchantre-jpg/react-focus-board) | App React + Vite | Código |
-
-### Backend, datos e infra
-
-| Stack | Repo |
-|-------|------|
-| Python FastAPI + SQLite | [pulse-api](https://github.com/jchantre-jpg/pulse-api) |
-| Node + SQLite | [inventory-api](https://github.com/jchantre-jpg/inventory-api) · [nexus-board](https://github.com/jchantre-jpg/nexus-board) |
-| Prisma ORM | [prisma-catalog-api](https://github.com/jchantre-jpg/prisma-catalog-api) |
-| MongoDB | [mongo-journal-api](https://github.com/jchantre-jpg/mongo-journal-api) |
-| PostgreSQL / SQL | [shop-schema-sql](https://github.com/jchantre-jpg/shop-schema-sql) |
-| Redis | [redis-rate-guard](https://github.com/jchantre-jpg/redis-rate-guard) |
-| GraphQL | [graphql-bookshelf](https://github.com/jchantre-jpg/graphql-bookshelf) |
-| Go · Java · Docker · TS | [go-books-api](https://github.com/jchantre-jpg/go-books-api) · [java-notes-api](https://github.com/jchantre-jpg/java-notes-api) · [docker-mini-stack](https://github.com/jchantre-jpg/docker-mini-stack) · [ts-url-kit](https://github.com/jchantre-jpg/ts-url-kit) |
+### Lenguajes
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
+
+### Datos & infra
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
+---
+
+### Apps web (demos)
+[Agenda Citas](https://jchantre-jpg.github.io/agenda-citas/) · [Factura Fácil](https://jchantre-jpg.github.io/factura-facil/) · [Quiz Academia](https://jchantre-jpg.github.io/quiz-academia/) · [Landing Nova](https://jchantre-jpg.github.io/landing-nova-studio/) · [Menú Café](https://jchantre-jpg.github.io/menu-cafe-andes/) · [Spendly](https://jchantre-jpg.github.io/spendly/)
+
+### APIs por lenguaje
+| Lenguaje | Repo |
+|----------|------|
+| **Rust** | [rust-tasks-api](https://github.com/jchantre-jpg/rust-tasks-api) |
+| **C#** | [csharp-notes-api](https://github.com/jchantre-jpg/csharp-notes-api) |
+| **PHP** | [php-contacts-api](https://github.com/jchantre-jpg/php-contacts-api) |
+| **Ruby** | [ruby-quotes-api](https://github.com/jchantre-jpg/ruby-quotes-api) |
+| **Kotlin** | [kotlin-todos-api](https://github.com/jchantre-jpg/kotlin-todos-api) |
+| **Go** | [go-books-api](https://github.com/jchantre-jpg/go-books-api) |
+| **Java** | [java-notes-api](https://github.com/jchantre-jpg/java-notes-api) |
+| **Python** | [pulse-api](https://github.com/jchantre-jpg/pulse-api) |
+| **Node/TS** | [nexus-board](https://github.com/jchantre-jpg/nexus-board) · [inventory-api](https://github.com/jchantre-jpg/inventory-api) |
+| **GraphQL** | [graphql-bookshelf](https://github.com/jchantre-jpg/graphql-bookshelf) |
+| **Dart / R / C / Bash** | [dart-password-check](https://github.com/jchantre-jpg/dart-password-check) · [r-sales-insights](https://github.com/jchantre-jpg/r-sales-insights) · [c-wordcount](https://github.com/jchantre-jpg/c-wordcount) · [bash-dev-toolkit](https://github.com/jchantre-jpg/bash-dev-toolkit) |
 
 ### Ahora
 🎓 Maestría en IA — UNIR · 💼 Oderlogica · 🔎 Full Stack / Software Engineer
